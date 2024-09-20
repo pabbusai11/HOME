@@ -53,6 +53,6 @@ Certified cybersecurity professional with advanced skills in network security, r
 Feel free to reach out for collaboration or more details on any projects!
 
 - **Email**: saivenpabbu15@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/saiven-pabbu-992a8851)
 - **GitHub**: [GitHub Profile](https://github.com/pabbusai11)
 
