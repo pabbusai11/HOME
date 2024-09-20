@@ -1,4 +1,4 @@
-# Personal Cybersecurity Portfolio
+# Certified Cybersecurity Professional
 
 ## About Me
 Certified cybersecurity professional with advanced skills in network security, risk management, and incident response. CASP+ certified and experienced in hands-on projects ranging from intrusion detection to network defense.
